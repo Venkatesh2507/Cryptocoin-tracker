@@ -9,3 +9,6 @@ Project build through:
 1) Crypto currency api is used to get all the price details and the graphs of the respected crypto coins. 
 2) Retrofit is used for the API integration 
 3) Glide dependency is also used for the symbols of crypto coins 
+
+Sample working video link:
+https://clipchamp.com/watch/h8JGSNXoKNB
