@@ -10,3 +10,4 @@ Project build through:
 2) Retrofit is used for the API integration 
 3) Glide dependency is also used for the symbols of crypto coins 
 
+![Crypto working gif](https://github.com/user-attachments/assets/57cd4174-d879-4f5f-a474-aa4b5a81d4f3)
